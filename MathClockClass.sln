@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathClockClass", "MathClockClass.csproj", "{01017C1A-E14F-4222-918D-CF873413066B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01017C1A-E14F-4222-918D-CF873413066B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{01017C1A-E14F-4222-918D-CF873413066B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{01017C1A-E14F-4222-918D-CF873413066B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01017C1A-E14F-4222-918D-CF873413066B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AC15603-E673-46A5-8435-3FDCF9BB92FA}
+	EndGlobalSection
+EndGlobal
